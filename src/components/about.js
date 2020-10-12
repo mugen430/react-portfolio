@@ -27,21 +27,21 @@ class About extends Component {
               <List>
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-linkedin" aria-hidden="true"/>
-                    <a href="https://www.linkedin.com/in/maverick-acampado-765a171a8/" target="blank">linkdin</a>
+                    <i className="fa fa-linkedin" aria-hidden="true" />
+                    <a href="https://www.linkedin.com/in/maverick-acampado-765a171a8/" target="blank">linkedin</a>
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-github" aria-hidden="true"/>
+                    <i className="fa fa-github" aria-hidden="true" />
                     <a href="https://github.com/mugen430" target="blank">github</a>
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-envelope" aria-hidden="true"/>
+                    <i className="fa fa-envelope" aria-hidden="true" />
                     acampado.maverick@gmail.com
                   </ListItemContent>
                 </ListItem>
