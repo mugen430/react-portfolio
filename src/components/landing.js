@@ -18,7 +18,7 @@ class Landing extends Component {
                         <hr />
                         <p>HTML/CSS | Bootstrap | JavaScript | SQL | MongoDB | Express | React | NodeJS </p>
                         <hr />
-                        <div className ="social">
+                        <div className ="social"></div>
                             {/* GitHub */}
                             <a href="https://github.com/mugen430" target="blank"> 
                             <i className="fa fa-github"></i>
