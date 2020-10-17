@@ -5,8 +5,6 @@ import AboutMe from './about';
 import Projects from './projects';
 import Resume from './resume';
 
-
-
 const Main = () => {
     return (
         <Switch>
